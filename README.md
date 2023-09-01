@@ -1,2 +1,3 @@
-# DSC520_Week_1
-Homework assignments for DSC520
+# Bellevue University - DSC520 Statistics in Data Science
+# Summer '23
+Homework assignments and projects using 'R' for DSC520
